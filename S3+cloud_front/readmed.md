@@ -1,5 +1,10 @@
-Project 1: Static Website on S3 + CloudFront  
-  
+**Project 1: Static Website on S3 + CloudFront **
+
+**Short Description: Hosting a Static Website on AWS**
+This guide outlines the process of deploying a static website—consisting only of HTML, CSS, and JavaScript—using Amazon S3 and CloudFront without the need for a traditional server.  
+
+Steps to create:-
+==============================================
 **Step 1 — Create S3 Bucket**
 
 1\. Go to **\*\*AWS Console → S3 → Create Bucket\*\***
