@@ -259,10 +259,10 @@ When the stress test drove CPUUtilization above 60% on Test-1, CloudWatch transi
 ### 7.1 Load Balancer Round-Robin
 
 Accessing the ALB DNS in a browser and refreshing confirmed traffic distribution between:
-![result-1] (https://github.com/praveen110399/Aws-project/blob/bf83bfaf00db7503065b4e374de7d72a89c99571/demo/result_1.jpg)
+![result-1](https://github.com/praveen110399/Aws-project/blob/bf83bfaf00db7503065b4e374de7d72a89c99571/demo/result_1.jpg)
 
 
-![result-2] (https://github.com/praveen110399/Aws-project/blob/bf83bfaf00db7503065b4e374de7d72a89c99571/demo/result_2.jpg)
+![result-2](https://github.com/praveen110399/Aws-project/blob/bf83bfaf00db7503065b4e374de7d72a89c99571/demo/result_2.jpg)
 
 ### 7.2 Stress Test — Full Observability Chain
 
